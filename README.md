@@ -2,7 +2,7 @@
   <tr>
     <td align="center" width="200">
       <!-- Replace this with your own logo if you have one -->
-      <img src="https://github.com/ramrym14/Rim-Aissa/blob/main/Capture%20d'%C3%A9cran%202025-12-01%20153811.png" width="180" alt="Rim Aissa Logo
+      <img src="https://github.com/ramrym14/ramrym14/blob/main/Capture%20d'%C3%A9cran%202025-12-01%20153811.png" width="180" alt="Rim Aissa Logo
 "/>
     </td>
     <td align="left">
